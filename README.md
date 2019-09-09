@@ -70,6 +70,12 @@ Run test with:
 
 ## Deployment
 
+Package dependencies with
+
+```
+./mvnw.cmd package
+```
+
 To build docker image:
 
 ```
